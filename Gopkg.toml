@@ -61,7 +61,7 @@
 
 [[dependencies]]
   branch = "master"
-  name = "github.com/mcuadros/go-octoprint"
+  name = "github.com/minkshaman/go-octoprint"
 
 [[dependencies]]
   branch = "master"

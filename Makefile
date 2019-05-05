@@ -13,7 +13,7 @@ GOTEST = $(GOCMD) test -v
 # Environment
 WORKDIR := $(shell pwd)
 BUILD_PATH := $(WORKDIR)/build
-DOCKER_IMAGE_BUILD = mcuadros/octoprint-tft-build
+DOCKER_IMAGE_BUILD = minkshaman/octoprint-tft-build
 
 DEBIAN_PACKAGES = JESSIE STRETCH
 STRETCH_NAME := stretch

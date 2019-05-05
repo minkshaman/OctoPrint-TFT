@@ -2,9 +2,9 @@
 
 
 
-OctoPrint-TFT [![GitHub release](https://img.shields.io/github/release/mcuadros/OctoPrint-TFT.svg)](https://github.com/mcuadros/OctoPrint-TFT/releases) [![license](https://img.shields.io/github/license/mcuadros/OctoPrint-TFT.svg)]()
+OctoPrint-TFT [![GitHub release](https://img.shields.io/github/release/minkshaman/OctoPrint-TFT.svg)](https://github.com/minkshaman/OctoPrint-TFT/releases) [![license](https://img.shields.io/github/license/minkshaman/OctoPrint-TFT.svg)]()
 =============
-### My (@noxhirsch) changes to the original software (I'm also working on some bugs):
+### My (@minkshaman) changes to the original software (I'm also working on some bugs):
 
 - Changed the order of the homescreen elements
 - Reworked status screen to have more space for the important stuff and smaller buttons
@@ -95,7 +95,7 @@ Install git and clone this repository:
 
 ```sh
 sudo apt-get install git -y
-git clone https://github.com/noxhirsch/OctoPrint-TFT
+git clone https://github.com/minkshaman/OctoPrint-TFT
 ```
 
 To compile just execute the `build` target, this will generate in `build` folder all the binaries

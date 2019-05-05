@@ -26,7 +26,7 @@ memo = "1d6b648d9b1c526dfce34fe8a2dd8a2efad3406a3d4a346852da0ce192f63d30"
 
 [[projects]]
   branch = "master"
-  name = "github.com/mcuadros/go-octoprint"
+  name = "github.com/minkshaman/go-octoprint"
   packages = ["."]
   revision = "01362f94e21fd2fd43e430358b250cfa89eeab44"
 
