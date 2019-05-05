@@ -8,7 +8,7 @@ import (
 
 	"github.com/gotk3/gotk3/gdk"
 	"github.com/gotk3/gotk3/gtk"
-	"github.com/mcuadros/go-octoprint"
+	"github.com/minkshaman/go-octoprint"
 	"github.com/sirupsen/logrus"
 )
 

@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/gotk3/gotk3/gtk"
-	"github.com/mcuadros/go-octoprint"
+	"github.com/minkshaman/go-octoprint"
 )
 
 var statusPanelInstance *statusPanel
