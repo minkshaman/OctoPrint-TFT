@@ -1,12 +1,10 @@
-#The only changes I've made is replacing all instances of noxhirsch and mcuadros with minkshaman, as it was calling to mcuadros' git when compiling.
-
 # If you can't see you files list, try uploading a new file via OctoPrint - that seems to work!
 
 
 
 OctoPrint-TFT [![GitHub release](https://img.shields.io/github/release/minkshaman/OctoPrint-TFT.svg)](https://github.com/minkshaman/OctoPrint-TFT/releases) [![license](https://img.shields.io/github/license/minkshaman/OctoPrint-TFT.svg)]()
 =============
-### My (@) changes to the original software (I'm also working on some bugs):
+### My (@minkshaman) changes to the original software (I'm also working on some bugs):
 
 - Changed the order of the homescreen elements
 - Reworked status screen to have more space for the important stuff and smaller buttons
