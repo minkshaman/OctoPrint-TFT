@@ -1,13 +1,13 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: OctoPrint-TFT
-Source: https://github.com/mcuadros/OctoPrint-TFT
+Source: https://github.com/minkshaman/OctoPrint-TFT
 
 Files: *
 Copyright: 2017 Máximo Cuadros
 License: MIT License
 
 Files: debian/*
-Copyright: 2017 Máximo Cuadros <mcuadros@gmail.com>
+Copyright: 2017 Máximo Cuadros <minkshaman@gmail.com>
 License: MIT License
 Comment: Debian packaging is licensed under the same terms as upstream
 
